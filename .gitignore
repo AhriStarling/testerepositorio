@@ -4,3 +4,4 @@ arquivo.txt
 ///ignora o arquivo específico
 *.css 
 ///ignora todos os tipo css
+logs.txt
