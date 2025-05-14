@@ -2,5 +2,5 @@ temp/
 ///ignora a pasta temp (arquivos temporários)
 arquivo.txt
 ///ignora o arquivo específico
-( *.css )
+*.css 
 ///ignora todos os tipo css
